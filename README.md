@@ -1,0 +1,2 @@
+# scan
+QRcode &amp; BarCode
